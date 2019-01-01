@@ -5,4 +5,4 @@ Browser version of Etch-A-Sketch, from The Odin Project's [curriculum](https://w
 
 I changed the requested "hover" effect to "click and drag", and added the color input, to make the drawing process easier and more enjoyable.
 
-[live demo](https://msgabriel.github.io/etch-a-sketch/)
+[live demo](https://joekabucho.github.io/sketch/)
